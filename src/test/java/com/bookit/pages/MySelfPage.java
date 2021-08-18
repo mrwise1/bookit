@@ -13,4 +13,6 @@ public class MySelfPage extends TopNavigationBar {
 	@FindBy (xpath = "(//*[@class='title is-6'])[3]")
 	public WebElement teamName;
 
+	
+
 }
